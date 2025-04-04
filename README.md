@@ -58,7 +58,7 @@ src/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hotel-reservation-system.git
+   git clone https://github.com/zhaominmin380/hotel-reservation-system.git
    cd hotel-reservation-system
    ```
 
